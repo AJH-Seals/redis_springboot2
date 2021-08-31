@@ -104,7 +104,8 @@ public class RedisTestController {
         }
     }
 
-
+//测试拉取pull
+    
 
     //测试连接redis设置值
     @GetMapping
